@@ -1,0 +1,23 @@
+name: marko
+favicon: null
+layout_spectrum: 0.8306306060403585
+typography_spectrum: 0.4229033465962857
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.9573064632713795
+  lightness: 0.07940786331892014
+  saturation: 0.08128209295682609
+  rhythmicContrast: 0.6197868615854532
+purpose: []
